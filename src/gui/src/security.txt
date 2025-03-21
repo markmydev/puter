@@ -1,0 +1,9 @@
+Contact: mailto:security@forkware.com
+
+Expires: 2025-01-01T20:00:00.000Z
+
+Acknowledgments: https://forkware.io/blob/master/SECURITY-ACKNOWLEDGEMENTS.md
+
+Canonical: https://forkware.io/blob/main/src/gui/src/security.txt
+
+Policy: https://forkware.io/blob/master/SECURITY.md
