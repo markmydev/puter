@@ -94,7 +94,7 @@ const error_help_details = [
             more.solutions = [
                 'ensure config_name is present in your config file',
                 'Seek help on ' + osclink(
-                    'https://discord.gg/PQcx7Teh8u',
+                    'https://forkware.io',
                     'our Discord server'
                 ),
             ];
