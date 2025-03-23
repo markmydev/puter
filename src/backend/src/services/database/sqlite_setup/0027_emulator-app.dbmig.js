@@ -33,7 +33,7 @@ await insert('apps', {
     uid: 'app-fbbdb72b-ad08-4cb4-86a1-de0f27cf2e1e',
     owner_user_id: 1,
     name: 'puter-linux',
-    index_url: 'https://builtins.namespaces.forkware.io/emulator',
+    index_url: 'https://builtins.namespaces.puter.com/emulator',
     title: 'Puter Linux',
     description: 'Linux emulator for Puter',
     approved_for_listing: 1,
